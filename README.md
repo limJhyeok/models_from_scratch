@@ -71,4 +71,4 @@ These models were selected to cover the evolution of deep learning architectures
     - [GoogLeNet](https://arxiv.org/abs/1409.4842)
     - [ResNet](https://arxiv.org/abs/1512.03385)
     - [EfficientNet](https://arxiv.org/abs/1905.11946)
-    - [Transformer)(https://arxiv.org/abs/1706.03762)
+    - [Transformer](https://arxiv.org/abs/1706.03762)
