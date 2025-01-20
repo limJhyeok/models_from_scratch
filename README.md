@@ -1,5 +1,10 @@
 # Deep Learning Models from scratch with PyTorch
 
+**언어 선택 / Language Selection:**
+
+- [🇰🇷 한국어 (Korean)](README.ko.md)
+- [🇺🇸 English](README.md)
+  
 This repository contains implementations of various foundational deep learning models using **PyTorch**. The purpose of this project is twofold:
 
 1. **Master PyTorch:** Develop and refine skills in building deep learning models from scratch using PyTorch.
