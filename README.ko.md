@@ -14,44 +14,37 @@
 
 <table>
     <tr>
-        <th>Model</th>
+        <th>모델</th>
         <th>Colab</th>
     </tr>
     <tr>
-        <td><strong>LeNet</strong><br>One of the earliest convolutional neural networks introduced by Yann LeCun. 
-          A foundational model for image classification tasks.</td>
+        <td><strong>LeNet</strong><br>Yann LeCun이 제안한 초기 합성곱 신경망 중 하나로, 이미지 분류 작업의 기초를 이루는 모델입니다.</td>
         <td><a href="https://colab.research.google.com/github/limJhyeok/models_from_scratch/blob/main/LeNet.ipynb"><img
                     src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td>
     </tr>
     <tr>
-        <td><strong>VGG Network</strong><br>Known for its simplicity and use of very deep networks composed of 3x3
-            convolution layers. Explores the role of network depth in improving accuracy.</td>
+        <td><strong>VGG Network</strong><br>3x3 합성곱 층을 사용하여 매우 깊은 네트워크를 단순한 구조로 구성한 모델로, 네트워크 깊이가 정확도에 미치는 영향을 탐구합니다.</td>
         <td><a href="https://colab.research.google.com/github/limJhyeok/models_from_scratch/blob/main/VGG.ipynb"><img
                     src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td>
     </tr>
     <tr>
-        <td><strong>GoogLeNet (Inception)</strong><br>Introduced the <em>Inception module</em>, allowing for efficient
-            computation with reduced parameters. Demonstrates the importance of designing models with computational
-            efficiency in mind.</td>
+        <td><strong>GoogLeNet (Inception)</strong><br>효율적인 계산을 위해 <em>Inception 모듈</em>을 도입한 모델로, 파라미터를 줄이면서도 성능을 유지하도록 설계되었습니다.</td>
         <td><a href="https://colab.research.google.com/github/limJhyeok/models_from_scratch/blob/main/GoogLeNet.ipynb"><img
                     src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td>
     </tr>
     <tr>
-        <td><strong>ResNet</strong><br>Introduced the concept of <em>residual connections</em>, addressing the vanishing
-            gradient problem in deep networks. Paved the way for very deep architectures with hundreds of layers.</td>
+        <td><strong>ResNet</strong><br><em>Residual Connection</em> 개념을 도입하여 깊은 네트워크에서 발생하는 기울기 소실 문제를 해결한 모델로, 수백 층의 딥러닝 네트워크를 훈련할 수 있게 했습니다.</td>
         <td><a href="https://colab.research.google.com/github/limJhyeok/models_from_scratch/blob/main/ResNet.ipynb"><img
                     src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td>
     </tr>
     <tr>
-        <td><strong>EfficientNet</strong><br>Scales models effectively across width, depth, and resolution using a
-            compound scaling method. Combines efficiency and performance, achieving state-of-the-art results.</td>
+        <td><strong>EfficientNet</strong><br>너비, 깊이, 해상도를 조합하여 효율적으로 확장하는 방법을 도입한 모델로, 효율성과 성능을 모두 달성하며 최신 기술을 선도했습니다.</td>
         <td><a
                 href="https://colab.research.google.com/github/limJhyeok/models_from_scratch/blob/main/EfficientNet.ipynb"><img
                     src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td>
     </tr>
     <tr>
-        <td><strong>Transformer</strong><br>Revolutionized deep learning by replacing RNNs with self-attention
-            mechanisms. Forms the backbone of many modern models like BERT and GPT.</td>
+        <td><strong>Transformer</strong><br>순환 신경망(RNN)을 대체하는 <em>Self-Attention</em> 메커니즘을 도입하며 딥러닝에 혁신을 가져온 모델입니다. BERT, GPT와 같은 현대 모델의 핵심입니다.</td>
         <td><a
                 href="https://colab.research.google.com/github/limJhyeok/models_from_scratch/blob/main/Transformer.ipynb"><img
                     src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a></td>
@@ -77,3 +70,4 @@
     - [ResNet](https://arxiv.org/abs/1512.03385)
     - [EfficientNet](https://arxiv.org/abs/1905.11946)
     - [Transformer](https://arxiv.org/abs/1706.03762)
+  
